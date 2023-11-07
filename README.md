@@ -7,8 +7,8 @@ This repository hosts the implementation of an anomaly detection system focused 
 To set up the project environment, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name
-cd your-repository-name
+git clone https://github.com/calixphd/Network-Anomaly-Detection
+cd Network-Anomaly-Detection
 pip install -r requirements.txt
 ```
 
